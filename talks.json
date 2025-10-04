@@ -1,0 +1,45 @@
+
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development", "Frontend"],
+    "duration": 60,
+    "description": "A deep dive into the latest trends in JavaScript frameworks, comparing the pros and cons of React, Vue, and Svelte."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["John Smith"],
+    "category": ["Node.js", "Backend", "API"],
+    "duration": 60,
+    "description": "Learn how to design and build robust and scalable APIs using Node.js and Express, with a focus on performance and security."
+  },
+  {
+    "title": "Mastering CSS Grid and Flexbox",
+    "speakers": ["Emily White", "Chris Green"],
+    "category": ["CSS", "Frontend", "Web Design"],
+    "duration": 60,
+    "description": "A hands-on workshop to master the modern CSS layout techniques of Grid and Flexbox for creating complex and responsive web designs."
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["David Brown"],
+    "category": ["Python", "Machine Learning", "AI"],
+    "duration": 60,
+    "description": "An introductory session on the fundamentals of Machine Learning using Python, covering popular libraries like Scikit-learn and TensorFlow."
+  },
+  {
+    "title": "DevOps for Dummies: CI/CD Pipelines Explained",
+    "speakers": ["Sarah Miller"],
+    "category": ["DevOps", "CI/CD", "Automation"],
+    "duration": 60,
+    "description": "A beginner-friendly guide to understanding and implementing Continuous Integration and Continuous Deployment pipelines for your projects."
+  },
+  {
+    "title": "The Art of Debugging",
+    "speakers": ["Michael Clark", "Jessica Lewis"],
+    "category": ["Debugging", "Software Development"],
+    "duration": 60,
+    "description": "Learn effective strategies and tools for debugging code across different languages and platforms, turning frustration into a solvable puzzle."
+  }
+]
