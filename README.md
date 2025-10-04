@@ -17,7 +17,10 @@ This is a simple web application to display a list of tech talks for an event.
     ```bash
     node server.js
     ```
-    The server will start on port 3000.
+    The server will start on port 3001.
+    ```bash
+    localhost:3001
+    ```
 
-2.  **Open the website:**
+3.  **Open the website:**
     Open the `public/index.html` file in your web browser.
